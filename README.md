@@ -1,2 +1,2 @@
 # AR-TicTacToe
-Tic Tac Toe in Augmented Reality
+TicTacToe in Augmented Reality.
